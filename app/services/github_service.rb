@@ -1,5 +1,5 @@
 class GithubService
-
+  # cloned code is already solved.
   attr_reader :access_token
 
   def initialize(access_hash = nil)
